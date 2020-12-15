@@ -1,0 +1,3 @@
+6. File JavaScript/HTML berhasil anda upload di Github, kik kanan pada file dan “Copy Link Address” maka Link url HTML/JavaScript yang anda upload sudah anda dapatkan
+
+7. Agar JavaScript/HTML ter Load dengan baik saat digunakan, buka raw.githack.com atau staticaly.com (Tempat lain untuk serves raw files dari GitHub) dan paste address url tadi untuk di ambil kode “Url in Production” yang bisa digunakan.
